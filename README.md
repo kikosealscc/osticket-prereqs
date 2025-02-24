@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install PHP Manager
 - Install MySQL
 - Install C++ Redistributable
-- 
+  
 
 <h2>Installation Steps</h2>
 
