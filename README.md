@@ -18,58 +18,79 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11 Pro </b> 
 
 <h2>List of Prerequisites</h2>
 
 - Enable Internet Information Services (IIS)
 - Install Web Platform Installer
+- Install PHP Manager
 - Install MySQL
 - Install C++ Redistributable
-- Configure Permissions and Install osTicket
+- 
 
 <h2>Installation Steps</h2>
 
-![image](https://github.com/user-attachments/assets/c4aa3d3b-3c9a-4a10-8475-93cf29c170d7)
+![image](https://github.com/user-attachments/assets/e8dc3841-e1e0-4467-829a-2442eb3f0a7d)
+
 
 <p>
 
-</p>
-<p>
-	Click start
-	> Control Panel
-	> Programs
-	> Turn Windows Features on
-	> Check box on Internet information services
-	> Expand the box to see World Wide Web Services
-	> World Wide Web Services -> Application Development Features -> [X] CGI
-	> Ok
-	> Web Server will start installing
-	> Close
-  > Open tab and type:  IP address to see Internet Information Services
+Click start > Control Panel > Programs > Turn Windows Features on > Check box on Internet information services > Expand the box to see World Wide Web Services > World Wide Web Services -> Application Development Features -> [X] CGI > Ok > Web Server will start installing > Close > Open tab and type:  IP address to see Internet Information Services
   
 </p>
 <br />
 
-<p>
-
-![image](https://github.com/user-attachments/assets/ccf283f7-e69f-4de2-941c-551d13e8b8a3)
+![image](https://github.com/user-attachments/assets/b836e8f5-e2de-4b88-91e6-e9354c94524c)
 
 
-</p>
-<p>
-Create the directory C:\PHP > Right click manila folder to create > Go to C drive > Make a folder called PHP > From the “osTicket-Installation-Files” folder
 
 </p>
-<br />
+Create the directory C:\PHP - Open File Explore > Make folder on C:Drive > PHP Folder > php-7.3.8…file > Browse to C: Drive > PHP Folder > Extract All
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
-Autofill
 
-;
+<p>
+
+
+![image](https://github.com/user-attachments/assets/a125817a-607a-42a1-8afc-12930673a0d9)
+
+
+
+</p>
+
+
+From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe. Click VC_restrx86 (highlighted in box below) > Click Yes
+
+
+
+<br />
+
+
+</p>
+
+![image](https://github.com/user-attachments/assets/83d54d25-8c04-4eb0-bd61-9b5ba2c94237)
+
+
+</p>
+
+From the “osTicket-Installation-Files” folder > install MySQL 5.5.62 (mysql-5.5.62-win32.msi) 
+Typical Setup > Launch Configuration Wizard (after install) > Standard Configuration > Username: root > Password: root
+
+</p>
+</p>
+
+
+![image](https://github.com/user-attachments/assets/1f48238a-9ebe-4558-80ac-934ec9667d6e)
+
+</p>
+
+From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe
+
+
+
+
+
+
