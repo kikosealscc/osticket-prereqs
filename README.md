@@ -58,7 +58,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Create the directory C:\PHP > Right click manila folder to create > Go to C drive > Make a folder called PHP > From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder :![image](https://github.com/user-attachments/assets/d5e1c890-af81-4850-92d8-f68738b6385e)
+Create the directory C:\PHP > Right click manila folder to create > Go to C drive > Make a folder called PHP > From the “osTicket-Installation-Files” folder
 
 </p>
 <br />
