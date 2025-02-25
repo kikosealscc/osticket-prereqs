@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 11 Pro </b> 
+- Windows 11 Pro </b> (23H2)
 
 <h2>List of Prerequisites</h2>
 
