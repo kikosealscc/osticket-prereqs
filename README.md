@@ -19,7 +19,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Operating Systems Used </h2>
 
 - Windows 11 Pro </b> (23H2)
-
+- Windows Server 22
 <h2>List of Prerequisites</h2>
 
 - Enable Internet Information Services (IIS)
